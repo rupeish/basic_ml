@@ -9,7 +9,7 @@ Linear regression using least square method
 
 # Usage
 
-Just run python3 linearregrels.py
+Just run `python3 linearregrels.py`
 
  
  
