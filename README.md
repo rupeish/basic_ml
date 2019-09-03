@@ -2,12 +2,12 @@
 
 Linear regression using least square method
 
-# Dependencies
+## Dependencies
 
 * numpy
 * matplotlib
 
-# Usage
+## Usage
 
 Just run `python3 linearregrels.py`
 
